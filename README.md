@@ -1,4 +1,4 @@
-### Hi there, I'm DeadlyZob - aka Arjun Chawla 👋
+### Hi there, I'm Arjun 👋
 
 ## I'm a Gamer, Student, and code learner!!
 
