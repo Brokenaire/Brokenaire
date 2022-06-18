@@ -3,9 +3,8 @@
 ## I'm a Gamer, Student, and code learner!!
 
 - 🔭 I just launched my discord first bot.
-- 🌱 I’m currently working on some projects. 
-- 👯 I’m working on my new dynamic website.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🌱 I’m currently working on some projects. .
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to play games.
 
 ### Languages and Tools:
